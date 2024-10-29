@@ -1,0 +1,16 @@
+News----------
+News about pets. Very importance message!
+Warsaw, 2024-10-29
+
+Privat Ad----------
+My first Private Ad.
+Expiration date: 2024-11-30, Days left: 32 days, 0:00:00
+
+Report----------
+Report about personal effect to the work and team.
+Reporter: Palina F., Rating: 9/10
+
+Privat Ad----------
+Second Privat AD
+Expiration date: 2036-05-04, Days left: 4205 days, 0:00:00
+
